@@ -1,0 +1,27 @@
+.mainSlider{
+  height: 200px;
+  width: fit-content;
+  border-radius: 5px;
+}
+.slickSlider{
+  margin: auto;
+  border-radius: 5px;
+  height: 100%;
+  width: 350px;
+  transform: translate(1rem);
+}
+.item{
+  text-align: center;
+  line-height: 200px;
+}
+.imm{
+  border-radius: 5px;
+  width: 100%;
+  margin: auto;
+}
+.mainSlider2{
+  height: 200px;
+  width: fit-content;
+  margin-top: 250px;
+  border-radius: 5px;
+}
